@@ -1,11 +1,11 @@
 
 <style>
     .resimler {
-        display: flex; /* Yatay düzen için flex kullan */
+        display: flex; 
     }
 
     .resimler img {
-        margin-right: 10px; /* Resimler arasında boşluk bırakmak için sağ margın kullan */
+        margin-right: 10px; 
     }
 </style>
 
