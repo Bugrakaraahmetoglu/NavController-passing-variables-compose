@@ -1,13 +1,5 @@
 
-<style>
-    .resimler {
-        display: flex; 
-    }
 
-    .resimler img {
-        margin-right: 10px; 
-    }
-</style>
 
 
 <div class="resimler">
